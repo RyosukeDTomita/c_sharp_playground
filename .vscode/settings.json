@@ -9,4 +9,6 @@
     "MD010": false, // タブ
     "MD013": false // 長い行
   },
+  // Paste Imageで保存時にファイル名を指定できるようにする
+  "pasteImage.showFilePathConfirmInputBox": true,
 }
