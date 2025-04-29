@@ -1,0 +1,12 @@
+/app/HelloWorld/bin/Debug/net9.0/HelloWorld.deps.json
+/app/HelloWorld/bin/Debug/net9.0/HelloWorld.dll
+/app/HelloWorld/bin/Debug/net9.0/HelloWorld.pdb
+/app/HelloWorld/obj/Debug/net9.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/app/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfoInputs.cache
+/app/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfo.cs
+/app/HelloWorld/obj/Debug/net9.0/HelloWorld.csproj.CoreCompileInputs.cache
+/app/HelloWorld/obj/Debug/net9.0/HelloWorld.sourcelink.json
+/app/HelloWorld/obj/Debug/net9.0/HelloWorld.dll
+/app/HelloWorld/obj/Debug/net9.0/refint/HelloWorld.dll
+/app/HelloWorld/obj/Debug/net9.0/HelloWorld.pdb
+/app/HelloWorld/obj/Debug/net9.0/ref/HelloWorld.dll

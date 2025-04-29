@@ -10,7 +10,7 @@
   // featuresを使ってinstallするツール
   "features": {
     "ghcr.io/guiyomh/features/vim:0": {},
-    "ghcr.io/dhoeric/features/hadolint:1": {}
+    "ghcr.io/dhoeric/features/hadolint:1": {},
   },
   "customizations": {
     "vscode": {
@@ -21,6 +21,7 @@
         "oderwat.indent-rainbow",
         "ionutvmi.path-autocomplete",
         "mushan.vscode-paste-image",
+        "streetsidesoftware.code-spell-checker"
       ]
     }
   }
