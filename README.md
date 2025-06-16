@@ -43,18 +43,20 @@ dotnet new list # テンプレート一覧
 dotnet new classlib -n HelloWorld
 dotnet new xunit -o HelloWorld.Tests # xunit
 ```
+
 TODO: テストとソースでprojectをわける文化がある?命名ルールとかも気になる。
 
 ### 単体テストの実行方法
 
 ```shell
-
+cd HelloWorld.Tests
+dotnet test
 ```
-
 
 ### .csprojファイルとは
 
-
 ### ライブラリの追加方法
+
 ### オブジェクト指向周りの文法
-### コード読んでいて気になることがあれば適宜。
+
+### コード読んでいて気になることがあれば適宜

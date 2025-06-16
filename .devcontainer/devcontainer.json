@@ -21,7 +21,8 @@
         "oderwat.indent-rainbow",
         "ionutvmi.path-autocomplete",
         "mushan.vscode-paste-image",
-        "streetsidesoftware.code-spell-checker"
+        "streetsidesoftware.code-spell-checker",
+        "george-alisson.html-preview-vscode"
       ]
     }
   }
